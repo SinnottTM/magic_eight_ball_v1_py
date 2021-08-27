@@ -1,4 +1,4 @@
-# magic_eight_ball_py
+### magic eight ball
 
 Simple experiment with python, no user input needed
 
